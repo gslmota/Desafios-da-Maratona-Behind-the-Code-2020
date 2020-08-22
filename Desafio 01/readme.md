@@ -61,7 +61,14 @@ Nesse repositório, no diretório [dataset](./doc/source/dataset) existem quatro
 - `percevejo_marrom` -> representando o pervejo marrom
 - `percevejo_pequeno` -> repressantando o percevejo pequeno
 - `percevejo_verde` -> representnado o percevejo verde
+<br>
 
+<div align="center">
+    <img width="750" src="/Desafio%2001/img/a3.png"/>
+    <p>Preparando o modelo</p>
+</div>
+
+<br>
 ## 7. Especificações técnicas
 
 Para a resolução do desafio, você irá utilizar o serviço de [Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition) no plano Lite. Nesse plano, existe um limite de 1000 eventos por mês, em que cada evento corresponde, por exemplo, a uma imagem durante o treinamento, ou à classificação de uma imagem. Portanto, tome cuidado ao usar muitas imagens e treinar muitas vezes para não estrapolar o limite do plano, o que invalidaria seu modelo para submissão. Deixe uma margem de pelo menos 100 eventos para que seu modelo possa ser avaliado com sucesso.
@@ -69,5 +76,16 @@ Para a resolução do desafio, você irá utilizar o serviço de [Visual Recogni
 _Exemplo: Um usuário estrapola o limite do plano Lite criando 4 classes com 250 imagens cada e treinando o modelo, pois 4 \* 250 = 1000._
 
 ## Resultados
+
 A pasta com as imagens é muito grande, por isso não foi adicinada aqui. Foram usadas cerca de 40 imagens para cada classe e 50 para a Classe Negative do Visual Recognition.
 Meu modelo Obteve 90% de acurácia nos testes, recebi 4/5 estrelas para esse desafio.
+
+<div align="center">
+    <img width="750" src="/Desafio%2001/img/a1.jpg"/>
+    <p>Resultado 1</p>
+</div>
+<br>
+<div align="center">
+    <img width="750" src="/Desafio%2001/img/a2.jpg"/>
+    <p>Resultad 2</p>
+</div>

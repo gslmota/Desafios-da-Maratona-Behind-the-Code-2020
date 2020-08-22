@@ -56,5 +56,6 @@ Por motivos de simplicidade, serão focados em dados de quatro disciplinas do cu
 No vídeo abaixo, todo o processo de desenvolvimento da solução é explicado em detalhes. Se você é um iniciante no mundo da ciência de dados e do *machine learning*, é altamente recomendado que você assista ao video para sanar qualquer tipo de dúvida acerca deste desafio.
 
 ## Resultados
+
 Os notebooks dá solução se encontram na pasta Desafio-UNINASSAU.
 Meu modelo teve 86% de acurácia e recebi a pontuação nesse desafio!
