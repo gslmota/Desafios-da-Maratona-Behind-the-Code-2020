@@ -1,7 +1,9 @@
 # Desafios-da-Maratona-Behind-the-Code-2020
--[Desafios-da-Maratona-Behind-the-Code-2020](#desafios-da-maratona-behind-the-code-2020)
-
-
+- [Desafios-da-Maratona-Behind-the-Code-2020](#desafios-da-maratona-behind-the-code-2020)
+  - [1. Sobre o repositório](#1-sobre-o-repositório)
+  - [2. Desafios](#2-desafios)
+  - [3. Licença](#3-licença)
+  
 ## 1. Sobre o repositório
 Repositório criado para armazenar os  desafios realizados na Maratona Behind the Code 2020!
 ## 2. Desafios 
