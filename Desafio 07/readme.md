@@ -15,8 +15,6 @@
 ### 1.1. Introdução
 
 A marca TNT está presente em 20 estados brasileiros, principalmente nas regiões Sul e Sudeste. Produzido em Teresópolis/RJ, está entre os três energéticos mais consumidos no Brasil e é comercializado nas seguintes versões: Original, Açaí com Guaraná, Citrus, Pêssego, Maçã Verde, Tangerina e Zero Açúcar. Pioneiro, foi o primeiro energético brasileiro a utilizar o selo higiênico e permanece o único.
-#PODEVIR
-@TNTEnergyDrink 
 ## 2. Desafio de negócio
 
 O mercado de energéticos vem crescendo ano após ano, muito impulsionado por mudanças no hábito de consumo do brasileiro, o que antigamente era um produto apenas de mixologia, passou a ser um produto de consumo diário por conta das suas funcionalidades.
